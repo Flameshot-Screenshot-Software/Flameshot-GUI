@@ -1,0 +1,7 @@
+﻿{
+  "name": "flameshot-screenshot-software",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Flameshot Screenshot Software packaging workspace",
+  "license": "GPL-3.0-only"
+}
